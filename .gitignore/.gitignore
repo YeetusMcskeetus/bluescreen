@@ -1,0 +1,6 @@
+echo "# bluescreen" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/YeetusMcskeetus/bluescreen.git
+git push -u origin master
